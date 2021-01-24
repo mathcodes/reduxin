@@ -1,8 +1,7 @@
 # Redux TodoMVC Example
 
-![movie](image:"src:"https://github.com/mathcodes/reduxin/blob/main/Books.capto/Original/Capto_Capture%202020-12-16_02-18-16_PM.mov")
 
-This project template was built with [Create React App](https://github.com/facebookincubator/create-react-app), which provides a simple way to start React projects with no build configuration needed.
+[![movie](http://img.youtube.com/vi/https://youtu.be/9y1ikJQ11Fg/10.jpg)](https://www.youtube.com/watch?v=9y1ikJQ11Fg "BOOKS")
 
 Projects built with Create-React-App include support for ES6 syntax, as well as several unofficial / not-yet-final forms of Javascript syntax such as Class Properties and JSX. See the list of [language features and polyfills supported by Create-React-App](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#supported-language-features-and-polyfills) for more information.
 
